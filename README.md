@@ -13,4 +13,4 @@ Open the author_profiling folder and open the jupyter notebook where this folder
 and run the kernal. 
 
 ## accessing the predicted values
-The final predicted labels will be converted to the csv file format with the name pred_labels.csv
+The final predicted labels will be converted to the .csv file format with the name pred_labels.csv
