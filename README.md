@@ -1,10 +1,10 @@
-#### Author_gender_profiling
+# Author_gender_profiling
  
-# Introduction
+## Introduction
 The project was about classification of authors to male and female by analysing 310,000 tweets and the pattern of the words used in their tweets
 
 
-# Programming environment
+## Programming environment
 Python 3.7.7
 Jupyter notebook
 
